@@ -1,0 +1,5 @@
+fastapi==0.124.4
+uvicorn[standard]==0.38.0
+pydantic==2.12.5
+groq==1.5.0
+python-dotenv==1.2.2
