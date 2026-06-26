@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-001",
+  "relevant_transaction_id": "TXN-9101",
+  "evidence_verdict": "consistent",
+  "case_type": "wrong_transfer",
+  "severity": "high",
+  "department": "dispute_resolution",
+  "agent_summary": "Customer claims to have sent 5000 taka to a wrong number. Transaction history shows a transfer of 5000 taka to +8801719876543 around 2pm today, which matches the user's complaint.",
+  "recommended_next_action": "Investigate the transaction and attempt to contact the recipient to resolve the dispute",
+  "customer_reply": "Dear customer, we have received your complaint and are investigating the matter. We will attempt to contact the recipient and try to resolve the issue as soon as possible.",
+  "human_review_required": true,
+  "confidence": 0.8,
+  "reason_codes": [
+    "wrong_number",
+    "unresponsive_recipient"
+  ]
+}
